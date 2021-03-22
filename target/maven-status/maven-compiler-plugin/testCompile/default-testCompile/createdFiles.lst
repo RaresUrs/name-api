@@ -1,0 +1,5 @@
+com/numbers/test/converter/NumberConverterTest.class
+com/numbers/test/factories/NumberFactoryTest.class
+com/numbers/test/TestApplicationTests.class
+com/numbers/test/api/NumberTest.class
+com/numbers/test/service/NumberServiceTest.class
